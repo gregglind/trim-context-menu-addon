@@ -1,0 +1,16 @@
+{
+  "name": "trim-context-menu",
+  "fullName": "Trim Context Menu",
+  "icon": "icon-64.png",
+  "id": "trim-context-menu@ux.mozilla.com",
+  "description": "Trim items from the context menu that you don't like.",
+  "author": "Gregg Lind <glind@mozilla.com>",
+  "license": "MPL 2.0",
+  "preferences": [{
+    "type": "control",
+    "label": "trim context menu",
+    "name": "launcheditor",
+    "title": "Launch editor"
+  }],
+  "version": "1.0.0"
+}

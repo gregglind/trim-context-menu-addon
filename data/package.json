@@ -1,0 +1,8 @@
+{
+  "volo": {
+    "dependencies": {
+      "jquery": "github:jquery/jquery/2.0.0",
+      "underscore": "github:documentcloud/underscore/1.4.4"
+    }
+  }
+}
